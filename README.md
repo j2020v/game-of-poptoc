@@ -1,4 +1,4 @@
-## Game of POPTOC :Taco:
+## Game of POPTOC 
 
 This game contains of three main files:
 - functions file
